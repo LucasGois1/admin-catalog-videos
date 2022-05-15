@@ -1,4 +1,4 @@
-package com.lucasgois.admin.catalog.api;
+package com.lucasgois.admin.catalog.application;
 
 public class Main {
     public static void main(String[] args) {
